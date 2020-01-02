@@ -3,7 +3,8 @@
 
 After swearing a lot about the filament runaway sensor on my CR-10S coming lose,
 I designed this little thing that takes 15 minutes to print and straps down the
-filament runaway sensor neatly in place without any need to install a new one.
+filament runaway sensor neatly in place without any need to install a new
+filament sensor.
 
 ## License
 
